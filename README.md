@@ -6,7 +6,7 @@ This extension generates anchor URLs from Medium articles. It is very useful if 
 # Installation Guide
 
 1. [Download this file](https://github.com/castroalves/medium-anchor-url-generator/raw/master/medium-anchor.crx)
-2. Open a new Chrome tab or window and [click here to open Chrome Extensions](chrome://extensions)
+2. Open a new Chrome tab or window, type `chrome://extensions` in the address bar and hit `Enter`
 3. Enable **Developer Mode** by clicking on the checkbox
 4. Click on **Load unpacked extension** button
 5. Navigate to the folder where you downloaded the file and open it
