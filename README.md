@@ -14,9 +14,9 @@ This extension generates anchor URLs from Medium articles. It is very useful if 
 
 # How It Works?
 
-1. [Open this Medium article](https://medium.com/@castroalves/please-stop-comparing-coffee-shops-to-coworking-spaces-bcb3002c3148)
-2. Scroll down the page and double click on any word in the text to select it
-3. Click on the extension button
+1. Open any Medium article, [like this one](https://medium.com/@castroalves/please-stop-comparing-coffee-shops-to-coworking-spaces-bcb3002c3148)
+2. Double click on any word in the text to select it
+3. Click on the extension button (the link icon in the extension bar)
 4. Copy the URL from the text field and voilà!
 
 **Obs.:** To test the anchor, open the URL in your browser. If it works as expected, the article will be loaded exactly over the block of the text you've selected previouly.
