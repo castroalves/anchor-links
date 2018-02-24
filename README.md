@@ -1,7 +1,7 @@
 
 # Medium Anchor URL Generator
 
-This extension generates anchor URLs from Medium articles. It is very useful if you want to create Table Of Contents or if you want to mention a specific part of text from a Medium article.
+This extension generates anchor links to your Medium articles. Just select the desired text and click on the extension button on Chrome. It is very useful if you want to create Table Of Contents or if you want to mention a specific part of text from a Medium article.
 
 # Installation Guide
 
@@ -14,12 +14,7 @@ This extension generates anchor URLs from Medium articles. It is very useful if 
 
 # How It Works?
 
-1. Open any Medium article, [like this one](https://medium.com/@castroalves/please-stop-comparing-coffee-shops-to-coworking-spaces-bcb3002c3148)
-2. Double click on any word in the text to select it
-3. Click on the extension button (the link icon in the extension bar)
-4. Copy the URL from the text field and voilà!
-
-**Obs.:** To test the anchor, open the URL in your browser. If it works as expected, the article will be loaded exactly over the block of the text you've selected previouly.
+[Read this article](https://medium.com/@castroalves/medium-anchor-a-must-have-chrome-extension-for-bloggers-c45dfdc6b91e#cde4) and follow the instructions there.
 
 # Story of this Chrome extension?
 
