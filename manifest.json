@@ -1,9 +1,9 @@
 {
 	"manifest_version": 2,
 	"author": "Cadu de Castro Alves",
-	"name": "Medium Anchor URL Generator",
-	"description": "This extension generates anchor URLs from any Medium article. Just select the desired text and click on the extension button on Chrome.",
-	"version": "1.0",
+	"name": "Medium Anchor",
+	"description": "This extension generates anchor links to your Medium articles. Just select the desired text and click on the extension button on Chrome.",
+	"version": "1.1.0",
 	"icons": {
 		"512": "medium-anchor.png"
 	},
@@ -16,6 +16,6 @@
 	},
 	"browser_action": {
 		"default_icon": "medium-anchor.png",
-		"default_title": "Select the text and click me!"
+		"default_title": "Select the text and click me to copy to clipboard!"
 	}
 }
