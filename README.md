@@ -2,15 +2,21 @@
 
 Anchor Links (formerly Medium Anchor) is a free Chrome Extension to add anchor links to Medium and WordPress articles.
 
-Medium and WordPress don’t have a built-in feature to add anchor links so this extension was built to fill this gap.
+Anchor links are a very important part of the world wide web. But it's hard to add anchor links to Medium and WordPress posts. They don't have a built-in feature to add these links to your pages.
 
-Anchor Links are helpful to **create table of contents** and **footnotes**. It's also good for SEO.
+This is why Anchor Links was created.
 
 # Installation Guide
 
-[Read the instructions here](https://blastmkt.com/medium-anchor-chrome-extension/).
+1. Visit [Anchor Links at Chrome Web Store](https://chrome.google.com/webstore/detail/medium-anchor/obedoflnhefmjmncjfpkhpackcmbmjhl)
+2. Click on **Add To Chrome** button
+3. Click on **Add Extension** to install it.
 
-# How To Use
+![alt text](https://raw.githubusercontent.com/castroalves/anchor-links/master/anchor-links-installation.gif "Anchor Links Installation Process")
+
+# Usage
+
+Anchor links are helpful to create **table of contents** and **footnotes**. It's also good for SEO.
 
 ## Medium
 
@@ -22,7 +28,7 @@ Anchor Links are helpful to **create table of contents** and **footnotes**. It's
 
 ## WordPress
 
-You can follow the same steps above to add anchor links to WordPress. If you need any help, get in touch with us.
+You can follow the same steps above to add anchor links to WordPress. If you need any help, [get in touch with us](mailto:contato@blastmkt.com).
 
 # The story behind this Chrome Extension
 
@@ -33,3 +39,6 @@ If you have any issues, [feel free to ask here](https://github.com/castroalves/a
 
 # Contribute
 This extension is open-source. Feel free to submit [pull requests](https://github.com/castroalves/anchor-links/pulls) to help make it better.
+
+# Licence
+[MIT License](https://raw.githubusercontent.com/castroalves/anchor-links/master/LICENSE) &copy Cadu de Castro Alves
