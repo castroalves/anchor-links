@@ -1,6 +1,6 @@
 chrome.browserAction.onClicked.addListener(function() {
 	chrome.tabs.executeScript(null, {
-		file: "medium-anchor.js",
+		file: "anchor-links.js",
 		runAt: "document_end"
 	});
 });
