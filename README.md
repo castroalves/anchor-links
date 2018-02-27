@@ -1,28 +1,25 @@
 
 # Medium Anchor
 
-This Google Chrome Extension generates anchor links to your Medium articles. 
+Medium Anchor is a free Chrome Extension to add anchor links to Medium articles with just one click.
 
-Just select the desired text and click on the extension button on Chrome to copy to your clipboard. 
+Medium doesn’t have a built-in feature to add anchor links so this extension was built to fill this gap. It works on both desktop and Medium mobile apps.
 
-It is very useful to create Table Of Contents, footnotes or if you want to mention a specific part of text from a Medium article.
+Anchor links are helpful to **create table of contents** and **footnotes**. It's also good for SEO.
 
 # Installation Guide
 
-1. [Download this file](https://github.com/castroalves/medium-anchor-url-generator/raw/master/medium-anchor.crx)
-2. Open a new Chrome tab or window, type `chrome://extensions` in the address bar and hit `Enter`
-3. Enable **Developer Mode** by clicking on the checkbox
-4. Click on **Load unpacked extension** button
-5. Navigate to the folder where you downloaded the file and open it
-6. Finally, check if the extension is enabled.
+[Read the instructions here](https://blastmkt.com/medium-anchor-chrome-extension/).
 
-# How It Works?
+# How It Works
 
-[Read this article](https://medium.com/@castroalves/medium-anchor-a-must-have-chrome-extension-for-bloggers-c45dfdc6b91e#cde4) and follow the instructions there.
+## How to add Table of Contents to Medium articles
+
+## How to add Footnotes to Medium Articles
 
 # Story of this Chrome extension?
 
-This extension was created right after [I read this article](https://medium.freecodecamp.org/how-to-link-to-a-specific-paragraph-in-your-medium-article-2018-table-of-contents-method-e66595fea549) on Medium. I hope it help you!
+[Read this article](https://medium.com/@castroalves/medium-anchor-a-must-have-chrome-extension-for-bloggers-c45dfdc6b91e).
 
 # Need help?
 If you have any issues, [feel free to ask here](https://github.com/castroalves/medium-anchor-url-generator/issues).
