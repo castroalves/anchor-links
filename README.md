@@ -2,17 +2,15 @@
 
 Anchor Links (formerly Medium Anchor) is a free Chrome Extension to add anchor links to Medium and WordPress articles.
 
-Anchor links are a very important part of the world wide web. But it's hard to add anchor links to Medium and WordPress posts. They don't have a built-in feature to add these links to your pages.
+Anchor links are a very important part of the world wide web. But it's hard to add anchor links to Medium and WordPress posts since they don't have a built-in feature to add these links to your pages.
 
 This is why Anchor Links was created.
 
 # Installation Guide
 
-1. Visit [Anchor Links at Chrome Web Store](https://chrome.google.com/webstore/detail/medium-anchor/obedoflnhefmjmncjfpkhpackcmbmjhl)
+1. Visit [Anchor Links at Chrome Web Store](https://chrome.google.com/webstore/detail/anchor-links/bfkhlokhnbbgioljjghkekhpkpkdfmem)
 2. Click on **Add To Chrome** button
 3. Click on **Add Extension** to install it.
-
-![alt text](https://raw.githubusercontent.com/castroalves/anchor-links/master/anchor-links-installation.gif "Anchor Links Installation Process")
 
 # Usage
 
