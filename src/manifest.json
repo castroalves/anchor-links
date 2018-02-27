@@ -2,8 +2,8 @@
 	"manifest_version": 2,
 	"author": "Cadu de Castro Alves",
 	"name": "Medium Anchor",
-	"description": "This extension generates anchor links to your Medium articles with just one click.",
-	"version": "1.1.0",
+	"description": "Medium Anchor is a free Chrome Extension to add anchor links to Medium articles with just one click.",
+	"version": "1.2.0",
 	"icons": {
 		"512": "medium-anchor.png"
 	},

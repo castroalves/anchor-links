@@ -14,8 +14,10 @@ Anchor links are helpful to **create table of contents** and **footnotes**. It's
 # How It Works
 
 ## How to add Table of Contents to Medium articles
+![alt text](https://raw.githubusercontent.com/castroalves/medium-anchor-url-generator/master/demo-adding-table-of-contents-on-medium.gif "How to add Table of Contents to Medium articles")
 
 ## How to add Footnotes to Medium Articles
+![alt text](https://raw.githubusercontent.com/castroalves/medium-anchor-url-generator/master/demo-adding-footnotes-to-medium-articles.gif "How to add Footnotes to Medium articles")
 
 # Story of this Chrome extension?
 
