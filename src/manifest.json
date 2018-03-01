@@ -3,7 +3,7 @@
 	"author": "Cadu de Castro Alves",
 	"name": "Anchor Links",
 	"description": "Anchor Links is a free Chrome Extension to add anchor links to Medium and WordPress articles.",
-	"version": "1.0.0",
+	"version": "1.1.0",
 	"icons": {
 		"512": "anchor-links.png"
 	},
