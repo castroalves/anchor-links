@@ -16,17 +16,9 @@ This is why Anchor Links was created.
 
 Anchor links are helpful to create **table of contents** and **footnotes**. It's also good for SEO.
 
-## Medium
+## How to add Table of Contents into Medium and WordPress
 
-### How to add Table of Contents to Medium articles
-![alt text](https://raw.githubusercontent.com/castroalves/anchor-links/master/demo-adding-table-of-contents-on-medium.gif "How to add Table of Contents to Medium articles")
-
-### How to add Footnotes to Medium Articles
-![alt text](https://raw.githubusercontent.com/castroalves/anchor-links/master/demo-adding-footnotes-to-medium-articles.gif "How to add Footnotes to Medium articles")
-
-## WordPress
-
-You can follow the same steps above to add anchor links to WordPress. If you need any help, [get in touch with us](mailto:contato@blastmkt.com).
+[Read this article](https://blastmkt.com/en/anchor-links-chrome-extension/) to see the tutorial. If you need any help, [get in touch with us](mailto:contato@blastmkt.com).
 
 # The story behind this Chrome Extension
 
