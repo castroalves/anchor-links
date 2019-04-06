@@ -16,7 +16,7 @@ This is why Anchor Links was created.
 
 Anchor links are helpful to create **table of contents** and **footnotes**. It's also good for SEO.
 
-[Read this article](https://blastmkt.com/en/anchor-links-chrome-extension/) to see the tutorial. If you need any help, [get in touch with us](mailto:contato@blastmkt.com).
+[Read this article](https://medium.com/@castroalves/medium-anchor-a-must-have-chrome-extension-for-bloggers-c45dfdc6b91e#cde4) to see the tutorial. If you need any help, [get in touch with us](mailto:contato@blastmkt.com).
 
 # The story behind this Chrome Extension
 
