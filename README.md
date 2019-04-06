@@ -6,6 +6,8 @@ Anchor links are a very important part of the world wide web. But it's hard to a
 
 This is why Anchor Links was created.
 
+**Warning:** this extension **IS NOT** compatible with Gutenberg Editor.
+
 # Installation Guide
 
 1. Visit [Anchor Links at Chrome Web Store](https://chrome.google.com/webstore/detail/anchor-links/bfkhlokhnbbgioljjghkekhpkpkdfmem)
